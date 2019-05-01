@@ -137,7 +137,7 @@
             <!--end footer -->
         </nav>
 
-        <button id="to-top" class="btn btn-success">GO UP</button>
+        <button id="to-top" class="btn btn-danger">TOP</button>
 
     </div>
     <!-- login form -->
